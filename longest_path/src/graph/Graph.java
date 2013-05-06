@@ -7,7 +7,7 @@ package graph;
  and breadth-first using a Queue
  Permits searching for a path by depth-first algorithm
  Introducing Data Structures with Java
- David Cousins 2010
+ David Cousins 2010 -
 */
 public class Graph {
     static String[] Vertex = new String[7];
