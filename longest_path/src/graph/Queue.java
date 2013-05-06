@@ -3,7 +3,7 @@ package graph;
  Queue class methods for enqueue, dequeue, test for empty queue
  uses Queuenode class
  ' Data Structures with Java'
- Copyright © David Cousins 2009
+ Copyright © David Cousins 2009,
 */
 
 import java.io.*;
